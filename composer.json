@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/microsoft",
+    "name": "AkyraHub/socialite-providers-microsoft",
     "description": "Microsoft OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
